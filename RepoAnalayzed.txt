@@ -5,5 +5,5 @@ Example:
 * https://github.com/olekaspt/SoftwareArchitectureCLassApplication Jan 2021 - Dec 2022 - Group -1
 
 Please use a bullet and then repo link, and timeframe
-
-* https://github.com/microsoft/vscode December 2022
+Spring 23 class
+* https://github.com/microsoft/vscode December 2022 (1 month) group 29
