@@ -8,6 +8,7 @@ Example:
 Please use a bullet and then repo link, and timeframe
 Spring 23 class
 * https://github.com/microsoft/vscode December 2022 (1 month) group 29
+* https://github.com/facebook/react July 2022 - December 2022 (6 months) group 9
 * https://github.com/facebook/react 06/2019 - 12/2019 (6 months) group 24
 * https://github.com/yoctoproject/poky Jan 2010 - Jan 2012 (2 Years) - Group 4
 * https://github.com/microsoft/terminal Jan 2020-May 2020 (5 months) group 16
@@ -23,4 +24,3 @@ Spring 23 class
 * https://github.com/polekas55/SA_Assignment01/blob/main/RepoAnalayzed.txt3(1month) - Group 21  (this doesn't feel right)
 * https://github.com/PierreSenellart/provsql Jul 17, 2016 – Jan 18, 2023 - Group 27
 * https://github.com/JuliaLang/julia January 2018 (1 month) group 25
-
