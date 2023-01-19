@@ -7,3 +7,5 @@ Example:
 Please use a bullet and then repo link, and timeframe
 Spring 23 class
 * https://github.com/microsoft/vscode December 2022 (1 month) group 29
+
+*https://github.com/facebook/react 06/2019 - 12/2019 (6 months) group 24
