@@ -4,6 +4,7 @@ Pick a GitHub repo that has some good history and large size (more than 500 file
 to pick a different Repo as well, please post on Teams which repo you are using.  This will be first come first serve basis.  (Reasoning, one person 
 could do all the work, and the entire class could copy all the data from that persons repo).
 
+Setup for this assignment is here - http://www.adamtornhill.com/code/crimescenetools.htm
 
 
 Report should consist of:
