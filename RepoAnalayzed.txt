@@ -11,7 +11,7 @@ Spring 23 class
 * https://github.com/mozilla/gecko-dev Jan 2023 (18 days) - Group 18
 * https://github.com/Netflix/zuul Jan2023 (1 month) - Group 34
 * https://github.com/facebook/react July 2022 - December 2022 (6 months) group 9
-* https://github.com/facebook/react 06/2019 - 12/2019 (6 months) group 24
+* https://github.com/facebook/react June 2019 (1 month) group 24
 * https://github.com/yoctoproject/poky Jan 2010 - Jan 2012 (2 Years) - Group 4
 * https://github.com/microsoft/terminal Jan 2020-May 2020 (5 months) group 16
 * https://github.com/apple/swift/graphs/code-frequency Jan 2019 - Jan 2021 group 30
