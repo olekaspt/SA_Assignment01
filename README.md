@@ -6,6 +6,9 @@ could do all the work, and the entire class could copy all the data from that pe
 
 Setup for this assignment is here - http://www.adamtornhill.com/code/crimescenetools.htm
 
+NOTE :
+To get the evo log for before and after (as case study just uses one of these), but you will most likely want to use both.
+git log --pretty=format:'[%h] %an %ad %s' --date=short --numstat --before=2013-09-05 --after=2012-01-01 > X_evo.log
 
 Report should consist of:
 
