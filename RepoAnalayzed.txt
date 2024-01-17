@@ -32,5 +32,8 @@ Spring 23 class
 * https://github.com/PierreSenellart/provsql Jul 17, 2016 – Jan 18, 2023 - Group 27
 * https://github.com/JuliaLang/julia January 2018 (1 month) group 25
 
+Spring 24 class
+Please use a bullet and then repo link, and timeframe
+* https://github.com/XXX December 2021 (1 month) group XXX
 
 
