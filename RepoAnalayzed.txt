@@ -35,5 +35,6 @@ Spring 23 class
 Spring 24 class
 Please use a bullet and then repo link, and timeframe
 * https://github.com/XXX December 2021 (1 month) group XXX
+* https://github.com/apple/foundationdb January 2023 to August 2023 (8 months) Group 7
 
 
