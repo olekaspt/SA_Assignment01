@@ -31,6 +31,8 @@ Spring 23 class
 * https://github.com/polekas55/SA_Assignment01/blob/main/RepoAnalayzed.txt3(1month) - Group 21  (this doesn't feel right)
 * https://github.com/PierreSenellart/provsql Jul 17, 2016 – Jan 18, 2023 - Group 27
 * https://github.com/JuliaLang/julia January 2018 (1 month) group 25
+* https://github.com/mozilla/pdf.js Sept 2023 - Jan 2024 (4 months) group 29
+
 
 Spring 24 class
 Please use a bullet and then repo link, and timeframe
