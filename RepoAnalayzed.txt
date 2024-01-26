@@ -34,6 +34,6 @@ Spring 23 class
 
 Spring 24 class
 Please use a bullet and then repo link, and timeframe
-* https://github.com/XXX December 2021 (1 month) group XXX
+* https://github.com/media-kit/media-kit August 2023-October 2023 (3 months) Group 17
 
 
